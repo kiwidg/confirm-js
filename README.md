@@ -1,5 +1,5 @@
 
-(Disclaimer : This module is mainly a pretext to discover modules for jQuery, and Github).
+(Disclaimer : This module is mainly a pretext to discover modules for jQuery, and Github. JS Confirm modules are way [too mainstream](https://github.com/search?l=JavaScript&q=confirm&type=Repositories&utf8=%E2%9C%93).)
 
 ## Simple confirm tool
 
